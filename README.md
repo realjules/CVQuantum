@@ -103,8 +103,8 @@ Our vision is to create a personalized job application system that leverages you
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/job-application-assistant.git
-cd job-application-assistant
+git clone https://github.com/realjules/CVQuantum.git
+cd CVQuantum
 ```
 
 2. Create and activate a virtual environment:
@@ -147,10 +147,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Team
-- [Your Name] - Project Lead & Developer
+- Jules - Project Lead & Developer
 
 ## 📞 Contact
-For any questions or suggestions, please open an issue or contact [your email].
+For any questions or suggestions, please open an issue or contact udaheju [at] gmail [dot] com.
 
 ---
 
